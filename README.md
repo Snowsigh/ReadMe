@@ -1,6 +1,9 @@
-### Hi there 👋
 <img src="https://img.shields.io/badge/spdhfh31@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/Snowsigh-181717?style=plastic&logo=GitHub&logoColor=ffffff"/></a>
 
+### 👋 Hi there I'm game programmer
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snowsigh&show_icons=true&theme=highcontrast )
 
 <!--
 **Snowsigh/Snowsigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
