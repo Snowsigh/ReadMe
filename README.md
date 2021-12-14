@@ -1,5 +1,7 @@
 <img src="https://img.shields.io/badge/spdhfh31@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=ffffff"/></a>
 <a href="https://github.com/Snowsigh" target="_blank"><img src="https://img.shields.io/badge/Snowsigh-181717?style=plastic&logo=GitHub&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/-ffffff?style=plastic&logo=Nintendo Switch&logoColor=E60012"/></a>
+<img src="https://img.shields.io/badge/-ffffff?style=plastic&logo=AMD&logoColor=ED1C24"/></a>
 
  ## **Hi there I'm game programmer using Unreal Engine and Unity** 😄  
  Currently, it is being developed as UE5(EA) regardless of genre.
