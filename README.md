@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=ffffff"/></a>
 #### Portfolio 
-<a href="http://naver.me/FRrNDnq5" target="_blank"><img src="https://img.shields.io/badge/GDrive-4285F4?style=Plastic&logo=Google Drive&logoColor=ffffff"/></a>
+<a href="http://naver.me/FRrNDnq5" target="_blank"><img src="https://img.shields.io/badge/MyBox-4285F4?style=Plastic&logo=Google Drive&logoColor=ffffff"/></a>
 <!--
 **Snowsigh/Snowsigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
